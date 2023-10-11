@@ -1008,7 +1008,7 @@ print("==============")
 # in
 if "aaa" in a_list:
     print("存在\"aaa\"")
-else:
+else:aaaaa
     print("不存在\"aaa\"")
 # not in
 if "fff" not in a_list:
